@@ -1,2 +1,2 @@
-Branch: CSE
+Branch: Computer Science
 Roll: 2021201082
